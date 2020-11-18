@@ -5,5 +5,5 @@
 <h4> Contact- 8328105049</h4>
 
 
-echo " Thanks & Regards
-        Sreenivas Senisetty"
+Thanks & Regards
+Sreenivas Senisett
